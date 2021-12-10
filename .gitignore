@@ -1,0 +1,9 @@
+gcloud-cred.json
+**/.terraform/*
+
+# .tfstate files
+*.tfstate
+*.tfstate.*
+
+# .tfvars files
+*.tfvars
